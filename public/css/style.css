@@ -1,7 +1,4 @@
-header, .project:not(:last-child) {
-    border-bottom: 1px solid #ccc;
-  }
-  
+
   .no-button {
     background: none;
     border: none;
@@ -17,9 +14,5 @@ header, .project:not(:last-child) {
     text-decoration: underline;
   }
   
-  .dollar-amount {
-    color: #056605;
-    font-weight: bold;
-    margin-left: -5px;
-  }
+
   
